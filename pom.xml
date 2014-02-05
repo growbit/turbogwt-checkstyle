@@ -60,7 +60,7 @@
                     </excludes>
                     <header>
                         <![CDATA[
-                            <a href="https://github.com/growbit/turbogwt-checkstyle" target="_blank">Back to ko Home</a>
+                            <a href="https://github.com/growbit/turbogwt-checkstyle" target="_blank">Back to Home</a>
                         ]]>
                     </header>
                     <doclet>org.umlgraph.doclet.UmlGraphDoc</doclet>
