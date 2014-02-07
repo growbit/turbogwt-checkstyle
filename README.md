@@ -12,7 +12,7 @@ Turbo GWT (*TurboG*) Checkstyle
 * [Turbo GWT Google Group](http://groups.google.com/d/forum/turbogwt) - Share ideas and ask for help.
 
 ## Downloads
-Turbo GWT Core is currently available at maven central.
+Turbo GWT Checkstyle is currently available at maven central.
 
 ### Maven
 ```
