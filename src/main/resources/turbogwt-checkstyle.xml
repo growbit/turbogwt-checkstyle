@@ -230,4 +230,5 @@
     <module name="SuppressionFilter">
         <property name="file" value="${basedir}/${suppressions.file}"/>
     </module>
+    <module name="SuppressionCommentFilter"/>
 </module>
