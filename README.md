@@ -19,7 +19,7 @@ Turbo GWT Checkstyle is currently available at maven central.
 <dependency>
     <groupId>org.turbogwt.tools</groupId>
     <artifactId>turbogwt-checkstyle</artifactId>
-    <version>0.1.0</version>
+    <version>0.2.0</version>
 </dependency>
 ```
 
