@@ -1,7 +1,7 @@
 Turbo GWT (*TurboG*) Checkstyle
 ==
 
-**Turbo GWT** is a suite of libs intended to speed up development of GWT applications. It aims to promote a fluent and enjoyable programming.
+[**Turbo GWT**](http://github.com/growbit/turbogwt) is a suite of libs intended to speed up development of GWT applications. It aims to promote a fluent and enjoyable programming.
 
 **Turbo GWT Checkstyle** contains checkstyle specifications used over all TurboG modules.
 
